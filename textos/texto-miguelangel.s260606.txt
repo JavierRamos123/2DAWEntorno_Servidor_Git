@@ -1,0 +1,7 @@
+#UTF8
+
+by Miguel Carmona
+https://miguelcarmona.com
+
+Siéntase libre de modificar y reutilizar el código
+bajo la licencia libre GNU/GPL3
